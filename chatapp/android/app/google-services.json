@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004770097387",
+    "project_id": "hassanchatapp",
+    "storage_bucket": "hassanchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004770097387:android:894749e0ff69a41204e6ae",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004770097387-cj0cei7219i4531gpoit3rgsaat6bfc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKyOaGW8ET5rkdIPibUCixCG7W-_3u4LE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004770097387-cj0cei7219i4531gpoit3rgsaat6bfc2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
